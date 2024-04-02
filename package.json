@@ -1,0 +1,15 @@
+{
+  "name": "sowl",
+  "version": "1.0.0",
+  "description": "\"# sowl\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "critical": "^7.1.1"
+  }
+}
